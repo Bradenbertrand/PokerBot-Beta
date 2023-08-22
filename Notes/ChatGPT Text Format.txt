@@ -1,0 +1,28 @@
+I am playing a game of No Limit Texas Holdem with 6 players, with Small blind being [Small blind amount] and Big Blind being [Big Blind amount].
+I will label the positions as such:
+1 = small blind
+2 = big blind
+3 = under the gun
+4 = middle position
+5 = cut off
+6 = button
+There are [Num of players still playing] that are in this round of betting
+I am in position [Position].
+My hand is [Hand]
+It is [Game state (Pre-flop, Flop, Turn, River)]
+The community cards are [Community Cards]
+The pot is [pot amount]
+The call amount is [Call amount]
+[num players folded] players folded before me
+[num players called] players called before me
+[num players raised] players raised before me to [raise amount]
+
+---------------------------------------------
+
+Possible Actions:
+Fold
+Call
+Raise [x amount]
+
+
+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
