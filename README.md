@@ -1,2 +1,10 @@
 # PokerBot Beta
- A Work in progress Poker Bot
+ A beta version of my ChatGPT Poker Bot
+
+ Requirements:
+ openai - pip install openai
+
+ how to use:
+
+ Run "python main.py" in main directory.
+ Follow instructions.
