@@ -1,2 +1,2 @@
 # PokerBot Beta
- A Work in progress Poker Bot
+ An absolute shit show
