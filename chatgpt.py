@@ -1,7 +1,7 @@
 import openai
 from tools import convert_card_codes
 
-openai.api_key = "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"
+openai.api_key = ""
 
 
 
